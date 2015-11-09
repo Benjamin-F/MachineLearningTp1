@@ -1,0 +1,12 @@
+Orig:
+Learning success : 0.183010
+Test success : 0.100000
+
+Random:
+Learning success : 0.954379
+Test success : 0.870000
+
+Random+norm:
+Learning success : 0.943891
+Test success : 0.910000
+
